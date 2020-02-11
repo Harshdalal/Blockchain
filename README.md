@@ -10,7 +10,7 @@ Ganache : https://www.trufflesuite.com/ganache
 
 Remix Solidity IDE : https://remix.ethereum.org
 
-Other Useful Links For Real World Knowledge
+# Other Useful Links For Real World Knowledge
 
 https://tools.superdatascience.com/blockchain/hash/
 
@@ -33,9 +33,9 @@ https://btc.com/
 https://slushpool.com/home/
 https://v3.antpool.com/home
 https://powercompare.co.uk/bitcoin/
-#Nonce range
+# Nonce range
 https://time.is/Unix
-#How minwer will pick transaction
+# How minwer will pick transaction
 https://www.blockchain.com/charts/blocks-size
 https://pushtx.btc.com/
 # How do mempool works
