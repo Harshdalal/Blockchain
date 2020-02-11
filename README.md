@@ -13,11 +13,8 @@ Remix Solidity IDE : https://remix.ethereum.org
 # Other Useful Links For Real World Knowledge
 
 https://tools.superdatascience.com/blockchain/hash/
-
 https://www.blockchain.com/
-
 https://flask.palletsprojects.com/en/1.1.x/quickstart/
-
 https://coinmarketcap.com/
 
 # what is bitcoin
@@ -27,7 +24,7 @@ https://bashco.github.io/Bitcoin_Monetary_Inflation/
 # understanding mining difficulty
 https://www.blockchain.com/explorer
 https://www.blockchain.com/charts/difficulty
-#mining pools
+# mining pools
 https://www.blockchain.com/pools
 https://btc.com/
 https://slushpool.com/home/
