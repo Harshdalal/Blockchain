@@ -7,3 +7,6 @@ Anaconda Navigator : https://www.anaconda.com/distribution/#download-section
 Postman : https://www.postman.com/downloads/
 
 Ganache : https://www.trufflesuite.com/ganache
+
+Remix Solidity IDE : https://remix.ethereum.org
+
